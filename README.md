@@ -1,11 +1,9 @@
 # tntWeather
 ## Daily Snow
-As we get closer to the actual storm cycle, I can see some advances in the storm’s potential strength. I am hoping this cycle is on the higher end of snow totals, but I could see it going either way. The total percipitable water just keeps going up for April 11th - 13th. My predicted snow totals just keep going up in my mind. 
+I still think the storm totals are going up. I'm extremely optimistic there will be a large snofall total in this next cycle coming next week. 
+[snow](GFSSY_NU2022040712F114.gif)
 
-![water](images/gfs_mslp_pwata_wus_24.png)
-![utah](images/GFSSY_WE2022040612F141.gif)
-
-2022-04-06 14:49:10 Wednesday
 
 # Archive:
+[04/05/2022][04-05-2022.md)
 [04/04/2022](04-04-2022.md)
